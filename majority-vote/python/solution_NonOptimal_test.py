@@ -1,5 +1,5 @@
 import unittest
-import solution_NonOptimal as s
+import Solution_NonOptimal as s
 
 class SolutionTests(unittest.TestCase):
     def setUp(self):
